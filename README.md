@@ -1,6 +1,13 @@
 # Top Bulletins Of The Day
 Top Bulletins of the day is an android application designed and developed using XML and Java programming language in android studio.
 
+## Description:
+- An android App, designed and developed using XML and Java language.
+- Users can see top news headlines of the day of different categories like Technology, Entertainment, Sports, etc.
+- Top Bulletins of the day are fetched by using Retrofit Library from newsapi.org
+- By clicking on any news, users can read the entire article in the app using Chrome Custom Tab.
+- Users can add & remove news articles from Favorites Section.
+
 ## Screenshots
 
 ### Top Bulletins:
