@@ -8,6 +8,9 @@ Top Bulletins of the day is an android application designed and developed using 
 - By clicking on any news, users can read the entire article in the app using Chrome Custom Tab.
 - Users can add & remove news articles from Favorites Section.
 
+## Demo Video Link:
+- link => https://www.youtube.com/watch?v=jYQDw8o4MQU
+
 ## Screenshots
 
 ### Top Bulletins:
